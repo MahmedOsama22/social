@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "817014119463",
+    "firebase_url": "https://social18-1cd25.firebaseio.com",
+    "project_id": "social18-1cd25",
+    "storage_bucket": "social18-1cd25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817014119463:android:ace8a7a6ecad176019c202",
+        "android_client_info": {
+          "package_name": "com.social18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817014119463-po2dl9i25iova25egqkpmerv5mc1icfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL0hAANvPVL_CYj4wg86fGPwWdic3G-s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817014119463-po2dl9i25iova25egqkpmerv5mc1icfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
